@@ -45,6 +45,12 @@
 		<li><a title="Bionic Six Episode 7" href="http://www.youtube.com/watch?v=XY8vSxCh9DM" target="_blank">Episode 7</a></li>
 		<li><a title="Bionic Six Episode 17" href="http://www.youtube.com/watch?v=0CLwKTbhb8s" target="_blank">Episode 17</a></li>
 	</ul>
+
+	<h4>Butch Cassidy and the Sundance Kids</h4>
+	<em>No Paul Newman nor Robert Redford</em>
+	<ul>
+		<li><a title="Butch Cassidy and the Sundance Kids Opening" href="http://www.youtube.com/watch?v=-RjALTeULI4" target="_blank">Opening</a></li>
+	</ul>	
 	
 	<h4>Captain Planet and the Planeteers</h4>
 	<em>Fighting global warming</em>
@@ -127,6 +133,12 @@
 	<ul>
 		<li><a title="The Impossibles &amp; Frankenstein Jr. Opening" href="http://www.youtube.com/watch?v=0NnGf_ZHcbI" target="_blank">Opening</a></li>
 	</ul>
+
+	<h4>Inch High, Private Eye</h4>
+	<em>The smallest detective on duty</em>
+	<ul>
+		<li><a title="Inch High, Private Eye Opening" href="http://www.youtube.com/watch?v=Lo0i9iisAPo" target="_blank">Opening</a></li>
+	</ul>	
 	
 	<h4>Jabberjaw</h4>
 	<em>The Neptunes</em>

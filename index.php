@@ -1,6 +1,9 @@
 <?php
 	include 'inc/header.inc.php'
 ?>	
+	<h2>
+		<a title="About the author" href="about.php">About the author</a>
+	</h2>
 	<h2>Resources</h2>
 	<ul>
 		<li><a title="Cartoons" href="cartoons.php">Cartoons</a></li>
